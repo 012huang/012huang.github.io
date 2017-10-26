@@ -3,7 +3,7 @@
   <title>MyNotes</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="//atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
   <updated>2017-10-26T02:33:49.504Z</updated>
